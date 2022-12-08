@@ -4,4 +4,4 @@
   추후 수정사항이 생기면 커밋이력이 추가될 것 입니다.
 
 
-<a href= "https://hk-tetris.netlify.app" target = "blank">사이트바로가기</a>
+<a href= "https://hk-tetris.netlify.app" target = "_blank">사이트바로가기</a>
