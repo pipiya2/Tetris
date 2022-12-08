@@ -2,3 +2,6 @@
   bootstrap, jquery를 사용하였습니다.
   이전에 만들어 놓았던 코드를 깃헙에 업로드만 해놓은 상태여서 commit history는 따로 존재하지않습니다. 
   추후 수정사항이 생기면 커밋이력이 추가될 것 입니다.
+
+
+https://hk-tetris.netlify.app
